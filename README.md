@@ -7,6 +7,6 @@ Primeira tentativa de usar o git hub.
 - Função `scanf` aprendida;
 3. Estudando *français* (*também aceito ajuda*);
 4. Gosto de animes, mangas, lighnovels;
-5. Disponível para conversas em *inglish* e português;
+5. Disponível para conversas em *english* e português;
 
 
